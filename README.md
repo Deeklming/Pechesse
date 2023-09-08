@@ -27,7 +27,6 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 #### **Peach-Market**과 함께 복숭아의 세계로 떠나보시는 건 어떨까요? 🍑🛒 💨
 
 <br>
-<br>
 
 ## Pe-chesse 소개 🍑
 
@@ -62,21 +61,18 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 <br>
 
 ## [목차]
-
 1. [기능](#1-기능)
-2. [링크](#8-링크)
-3. [레포 및 배포 URL](#2-레포-및-배포-URL)
-4. [기술스택 및 개발환경](#3-기술스택-및-개발환경)
-5. [프로젝트 설계 및 과정](#4-프로젝트-설계-및-과정)
+2. [링크](#2-링크)
+3. [레포 및 배포 URL](#3-레포-및-배포-URL)
+4. [기술스택 및 개발환경](#4-기술스택-및-개발환경)
+5. [프로젝트 설계 및 과정](#5-프로젝트-설계-및-과정)
 6. [UI 이미지](#6-UI-이미지)
 7. [페이지 기능](#7-페이지-기능)
-8. [느낀점](#9-느낀점)
+8. [느낀점](#8-느낀점)
 
 <br>
 
 ## 1. 기능
-
-<br>
 
 - 회원가입 및 로그인
 - Firebase 사용하여 소셜 로그인(Google)
@@ -101,7 +97,7 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 <br>
 
-## 3. 레포 및 배포 URL 🍑
+## 3. 레포 및 배포 URL
 
 ### 배포 URL - http://3.37.239.49/
 
@@ -113,39 +109,42 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 - [Peach-Fe](https://github.com/Pe-chesse/Peach-Fe)
 
-### 3.3 Flutter
+### 3.3 Flutter Mobile
 
 - [Peach-Flutter](https://github.com/Pe-chesse/Peacheese-Flutter.git)
 
 <br>
 
-## 4. 기술스택 및 개발환경🍑
+## 4. 기술스택 및 개발환경
 
 ### 4.1 Technologies Used
 
 - Programing Languages
-  - Python
-  - JavaScripts(ES6)
-  - HTML5
-  - CSS3
+  * Python
+  * JavaScripts(ES6)
+  * HTML5
+  * CSS3
+
 - Framework / Library
-  - Django
+  * Django
   * Django REST framework
+
 - Database
-  - PostgreSQL
+  * PostgreSQL
   * Redis
   * Entity-Relationship Diagram (ERD)
 
-* Server
-  - Amazon Web Services (AWS)
+- Server
+  * Amazon Web Services (AWS)
+  * Amazon S3
 
 - Tooling / DevOps
-  - Docker
+  * Docker
   * Firebase
-  * Amazon S3
   * GitHub
   * Git
   * DBeaver
+
 - ETC
   - Discord
   - Notion
@@ -403,7 +402,7 @@ zope.interface==6.0
 ## 8. 느낀점
 
 - 김민기
-  - 협업시 처음 접해보는 툴들을 가지고 새로운 것들을 익히면서 프로젝트를 이어나가는 방식에 협업 방법 등 많은 것들을 배울 수 있어서 좋았습니다.
+  - 협업시 노션, 피그마 같은 처음 접해보는 툴들을 활용하여 새로운 것들을 익히며 프로젝트를 이어나가는 방식에 협업 방법 등 많은 것들을 배울 수 있어서 좋았습니다. 그리고 새로운 프로젝트를 시작할 땐 충분한 설계를 가지고 해야 개발 방식 때문에 개발 속도가 느려지지 않는다는 점도 배울 수 있어서 좋았습니다.
 - 김여주
   - Peach Market 프로젝트를 진행하면서 실제 실무에서 프로젝트를 하는 것처럼 코드 컨벤션을 맞추고, 협업을 통해 작업 분배를 함으로써 처음에 막연했던 작업들이 서서히 윤곽이 잡혀가며 혼자했을 때와 달리 몇 배의 시너지를 내는 경험을 했습니다. 처음 한 협업이지만 개발 중 이슈가 생기면 지속적인 커뮤니케이션을 통해 문제를 빠르게 해결할 수 있었기 때문에 이러한 작업 결과물이 나왔다고 생각합니다. DRF와 프론트엔드를 연결 시키는 과정에서 많은 어려움이 있었습니다. 생각보다 많은 시간이 소요되었고 팀원분들과의 원활한 소통 끝에 문제를 원만히 해결할 수 있었습니다. 이번 프로젝트를 진행하면서 협업의 중요성을 깨달았고, 많은 이슈를 겪으면서 한층 더 성장할 수 있었습니다. 
 - 김준균
@@ -413,8 +412,9 @@ zope.interface==6.0
 - 정승일
   - 프로젝트 시작시에는 사실 걱정이 많이 되었으며, 내가 피해를 안끼치고 할 수 있을까라는 생각을 했습니다. 그리고 팀웓들과 같이 프로젝트에 대화를 하고 커뮤니케이션이 이어지니 프로젝트에 집중하게 되고 그 안에서 내가 할 수 있는일이 무엇인지 찾고 실행하게 되었습니다. 협업을 진행하는 와중 개발에 관해 충돌이 일어날 수 있고, 에러가 발생 하는 일은 비일비재하다 생각하지만, 개인 프로젝트로 진행 할 시에는 그 에러에 대해 혼자 고민하고 혼자 자료 정보들을 찾아보며 해결 해 나갔었다면, 팀원들과 이 에러가 왜 발생하는지에 대해 의논 하고 해결책을 찾아보며 더 빠르게 에러를 해결하는 경험이 너무 좋게 다가왔습니다. 이러한 점들이 협업을 하는데에 있어서의 매력이라고 생각했습니다. 또한 팀원들 간의 커뮤니케이션을 통해 내가 누군가에게 지식을 줄 수 있고, 저 또한 역으로 많은 배움을 얻을 수 있는 기회가 있어 짧은 기간이지만 많이 성장 할 수있는 기회이고 너무 좋은 경험이었습니다.
 
+<br>
 
-## Contributor🍑
+## 🍑 Contributor
 
 - 김민기 [prin6850@gmail.com]
   - GitHub : https://github.com/Deeklming
@@ -426,3 +426,5 @@ zope.interface==6.0
   - GitHub : https://github.com/nohheeyeon
 - 정승일 [jungsi1217@gmail.com]
   - GitHub : https://github.com/SleepyGom
+
+<br>
