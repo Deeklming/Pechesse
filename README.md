@@ -92,7 +92,7 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 - [🍑 피치마켓 Notion](https://www.notion.so/peacheese/635598748aa74b6686f765dad4b78339)
 - [🍑 피치마켓 PPT](https://docs.google.com/presentation/d/1dyAyuU1VEIhI6rr17ljWxVwV43uuYid530DEQjLluc0/edit#slide=id.p1)
-- [🍑 Peach-Market API 명세서](https://github.com/Pe-chesse/Pe-chesse/wiki/API-Docs)
+- [🍑 Peach-Market API 명세서](https://github.com/Deeklming/Pechesse/wiki/API-Docs)
 - [📮 Postman](https://documenter.getpostman.com/view/28078969/2s9Y5YRN6j)
 
 <br>
@@ -103,15 +103,15 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 ### 3.1 Back-End
 
-- [Peach-Market](https://github.com/Pe-chesse/Peach-Market)
+- [Peach-Market](https://github.com/Deeklming/Pechesse/tree/main/Peach-Market)
 
 ### 3.2 Front-End Web
 
-- [Peach-Fe](https://github.com/Pe-chesse/Peach-Fe)
+- [Peach-Fe](https://github.com/Deeklming/Pechesse/tree/main/Peach-Fe)
 
 ### 3.3 Flutter Mobile
 
-- [Peach-Flutter](https://github.com/Pe-chesse/Peacheese-Flutter.git)
+- [Peach-Flutter](https://github.com/Deeklming/Pechesse/tree/main/Peacheese-Flutter)
 
 <br>
 
@@ -154,7 +154,7 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 ### 4.2 requirment.txt
 
 ```txt
-﻿anyio==3.7.1
+anyio==3.7.1
 asgiref==3.7.2
 attrs==23.1.0
 autobahn==23.6.2
@@ -245,7 +245,7 @@ zope.interface==6.0
 
 - [ERD](https://dbdiagram.io/d/64dd90b402bd1c4a5ee8b16b) <br>
 
-<img width="600" alt="ERD" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/5a774289-3d7e-4c2e-a2b6-c33c2010e499">
+<img width="660" alt="ERD" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/5a774289-3d7e-4c2e-a2b6-c33c2010e499">
 
 ### 5.2 Architecture
 
