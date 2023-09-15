@@ -111,7 +111,7 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 ### 3.3 Flutter Mobile
 
-- [Peach-Flutter](https://github.com/Deeklming/Pechesse/tree/main/Peacheese-Flutter)
+- [Peach-Flutter](https://github.com/Pe-chesse/Peacheese-Flutter)
 
 <br>
 
