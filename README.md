@@ -89,10 +89,10 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 <br>
 
 ## 2. 링크
-
+- [🍑 Peach-Market Repository](https://github.com/Pe-chesse/Peach-Market)
+- [🍑 Peach-Market API 명세서](https://github.com/Deeklming/Pechesse/wiki/API-Docs)
 - [🍑 피치마켓 Notion](https://www.notion.so/peacheese/635598748aa74b6686f765dad4b78339)
 - [🍑 피치마켓 PPT](https://docs.google.com/presentation/d/1dyAyuU1VEIhI6rr17ljWxVwV43uuYid530DEQjLluc0/edit#slide=id.p1)
-- [🍑 Peach-Market API 명세서](https://github.com/Deeklming/Pechesse/wiki/API-Docs)
 - [📮 Postman](https://documenter.getpostman.com/view/28078969/2s9Y5YRN6j)
 
 <br>
